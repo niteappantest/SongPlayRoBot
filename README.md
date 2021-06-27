@@ -6,7 +6,7 @@
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongPlayRoBot)
+Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/song_dwldr_bot)
 
 Easy To Deploy 🤗
 
@@ -17,8 +17,8 @@ Easy To Deploy 🤗
 3) Create An App On Heroku And Connect Heroku With Your Github Repository, 
 4) Manual Deploy To Your Repository. 
 ```
-![logo](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)
-# Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongPlayRoBot)
+![logo](https://telegra.ph/file/764fc46af2d33e0eade14.jpg)
+# Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/song_dwldr_bot)
 
 # Report Any Error or Help Contact :
 [Channel 💬](https://t.me/TamilBots), 
